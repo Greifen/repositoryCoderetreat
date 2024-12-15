@@ -14,7 +14,7 @@ public class Cell {
 		this.state = state;
 	}
 
-	public Cell(boolean state2, int neighbours) {
+	public Cell(boolean state, int neighbours) {
 		super();
 		this.state = state;
 		this.neighbours = neighbours;
